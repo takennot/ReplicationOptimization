@@ -127,7 +127,7 @@ In total there have been 6 benchmarks:
 
 First 2 tests showed a reduction of 2-4% in incoming traffic, which I considered to be a statistical error.
 Later tests with more actors, longer capture time & higher bandwidth showed an improvement of around 60% in incoming traffic.
-A more detailed spreadsheet you can find here: [LINK THE SPREADSHEET HERE]
+A more detailed spreadsheet you can find here: [Benchmark Results](https://github.com/takennot/ReplicationOptimization/blob/c340a29f10cebc0f6f66122062407ddc4478d7e5/Benchmark_Results.xlsx)
 
 ### Benchmarking process
 
