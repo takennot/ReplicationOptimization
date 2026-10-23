@@ -6,6 +6,8 @@ This project is a small multiplayer networking benchmark that tests a simple ide
 
 The goal is to reduce server-to-client network traffic without treating all actors as equally important, while making the trade-offs observable. In a local testing, there was a reduction of approximately 60% in incoming bandwidth & packets; the exact figure, metric, and conditions can be found in the attached spreadsheet.
 
+Video showcase: https://youtu.be/wOiHMG62PCQ
+
 # Scope
 
 This project uses Unreal's legacy `UNetDriver` actor-replication path, not Iris, Replication Graph, or a custom packet transport.
