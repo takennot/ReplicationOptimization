@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.8",
+	"Category": "Engineering / Network Replication",
+	"Description": "A self-contained C++ actor replication prioritization and measurement playground.",
+	"Modules": [
+		{
+			"Name": "ReplicationBudgeter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Iris",
+			"Enabled": false
+		}
+	]
+}
